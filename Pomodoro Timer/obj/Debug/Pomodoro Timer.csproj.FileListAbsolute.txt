@@ -1,0 +1,16 @@
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe.config
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\bin\Debug\Pomodoro Timer.pdb
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csprojAssemblyReference.cache
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.ResolveComReference.cache
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Form1.resources
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Properties.Resources.resources
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.GenerateResource.cache
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.exe
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro Timer.pdb
+C:\Users\Melih\source\repos\Pomodoro Timer\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Form2.resources
